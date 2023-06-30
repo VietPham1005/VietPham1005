@@ -2,7 +2,6 @@
 
 ## I'm a Data Analyst, Product Manager
 
-- 🔭 I’m [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/62034)!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Dig deeper into learning advance topics
 
